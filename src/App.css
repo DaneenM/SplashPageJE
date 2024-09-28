@@ -43,7 +43,9 @@ p {
   cursor: pointer;
   text-transform: uppercase;
   transition: background 0.3s;
+  margin-bottom: 20px;
 }
+
 
 .cta-button:hover {
   background-color: #FFD633;
